@@ -1,7 +1,7 @@
 # hello-world
 Test Repository for Github documentation.
 
-I am Korhan Gencer. An aspiring engineer. I am trying to use Github for further challenges.
+The name is Korhan Gencer, a control and automation engineer. Trying to use Github for further challenges.
 
-Age:24
-Uni:ITU
+Age: 28
+Uni: ITU
